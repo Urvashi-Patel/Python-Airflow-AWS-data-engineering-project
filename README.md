@@ -9,14 +9,14 @@ In this project, we are using two datafiles accounts.csv and transactions.csv. W
 ![Project_Workflow](https://github.com/Urvashi-Patel/Python-Airflow-AWS-data-engineering-project-/assets/34763147/0063a7b3-e6e3-4b0a-baa5-203d0b0c6241)
 
 ## Tech Stack:
-➔ Language: Python3 <br/>
+➔ Language: Python3 <br>
 ➔ Services: Apache Airflow, Amazon EC2, AWS S3
 
 ## Implementation Steps:
 
-**step1:** for this project, First to colne the git repository. <br/>
-**step2:** After cloning the Github repository we have to launch EC2 instance on AWS. <br/>
-**step3:** Install below command on new EC2 instance. <br/>
+**step1:** for this project, First to colne the git repository. <br>
+**step2:** After cloning the Github repository we have to launch EC2 instance on AWS. <br>
+**step3:** Install below command on new EC2 instance. <br>
         ➔ sudo apt-get update <br/>
 	➔ sudo apt install python3-pip <br/>
 	➔ sudo pip install apache-airflow <br/>
